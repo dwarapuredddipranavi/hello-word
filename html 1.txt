@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #7777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+</head>
+ <body>
+<h1><center>GALLERY OF MY FAVOURATE BOOKS</h1>
+<div class="gallery">
+  <a target="_blank" href="http://blydynsquarebooks.com/wp-content/uploads/2020/06/Blydyn_CinderellaStory.png">
+    <img src="http://blydynsquarebooks.com/wp-content/uploads/2020/06/Blydyn_CinderellaStory.png" alt="A CINDERELLA STORY" width="600" height="400">
+  </a>
+  <div class="desc">Cinderella Summary Charles Perrault Cinderella is a fairy tale written by Charles Perrault. This is a story about a poor girl's passivity in the form of abuse that ends with a reward by a fairy godmother and wins a prince's heart. It's a gentle reminder to remain kind to everyone. Further study Cinderella Book Cinderella Analysis
+
+</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="  <a target="_blank"  href="https://coolmompicks.com/wp-content/uploads/2017/12/best-childrens-books-2017-girl-who-drank-the-moon-kelly-barnhill-newbery.jpg">
+    <img src="https://coolmompicks.com/wp-content/uploads/2017/12/best-childrens-books-2017-girl-who-drank-the-moon-kelly-barnhill-newbery.jpg" alt="GRIL-WHO-DRANK-THE-MOON" width="600" height="400">
+  </a>
+  <div class="desc">Your brother? How could I fight for him? If I had, the Witch would have killed us all and then where would we be? Sacrifice one or sacrifice all. That is the way of the world. We couldn’t change it if we tried. Enough questions. Off with you. Fool child.”
+
+
+ </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://i.pinimg.com/736x/82/19/87/82198735c1cdf3db0e7cf391c608ff62.jpg">
+    <img src="https://i.pinimg.com/736x/82/19/87/82198735c1cdf3db0e7cf391c608ff62.jpg" alt="A THEIF IN TIME" width="600" height="400">
+  </a>
+  <div class="desc">Set amid the Anasazi ruins of the American Southwest, A Thief of Time is an anthropological mystery in which Joe Leaphorn and Jim Chee, two members of the Navajo Tribal Police , work together to locate a missing anthropologist and to solve the murders of two pot hunters, “thieves of time” who ransack Anasazi graves to steal artifacts, thereby damaging the sites for researchers trying to understand the past</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://cdn2.momjunction.com/wp-content/uploads/2019/05/The-Hallowed-Ones.jpg">
+    <img src="https://cdn2.momjunction.com/wp-content/uploads/2019/05/The-Hallowed-Ones.jpg" alt="THE HALLOWED ONES" width="600" height="400">
+  </a>
+  <div class="desc">Katie is an Amish teen who is looking forward to spending her Rumspringa with her childhood friend, Elijah. In the book, Rumspringa is described as the time in every Amish teen's life when he or she is allowed to experience life as a normal, non-Amish teenager, after which they can choose which lifestyle they want to lead. Three weeks before Katie's Rumspringa, the people in her community learn of unexplainable things that are happening outside, caused by an epidemic that transforms people into blood-thirsty monsters 
+
+  </div>
+</div>
+
+</body>
+</html>
+
